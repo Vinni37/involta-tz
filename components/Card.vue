@@ -26,25 +26,37 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-    section {
-        box-shadow: 0px 2px 5px 0px rgba(34, 60, 80, 0.2);
-        background: white;
-        margin: 0.5rem;
+  section {
+      box-shadow: 0px 2px 5px 0px rgba(34, 60, 80, 0.2);
+      background: white;
+      margin: 0.5rem;
+  }
+  .card {
+    padding: 2rem;
+  }
+  .card h1 {
+    color: #0029FF;  
+  }
+  .footer {
+    display: flex;
+    background: #FCFCFC;
+    justify-content:space-between;
+    padding: 1rem 2rem 1rem 2rem;
+    color: #DCDCDC;
+  }
+  .footer a {
+    color: #DCDCDC;
+  }
+  @media (max-width: 700px) {
+    section{
+      display: block;
+      margin: 0.5rem 0 0.5rem 0;
     }
     .card {
-      padding: 2rem;
-    }
-    .card h1 {
-      color: #0029FF;  
+      padding: 1rem;
     }
     .footer {
-      display: flex;
-      background: #FCFCFC;
-      justify-content:space-between;
-      padding: 1rem 2rem 1rem 2rem;
-      color: #DCDCDC;
+      padding: 1rem 1rem 1rem 1rem;
     }
-    .footer a {
-      color: #DCDCDC;
-    }
+  }
 </style>

@@ -27,7 +27,7 @@
       v-on:change-page='changePage'
     />
     <div>
-      <a href="https://github.com/Vinni37/involta-tz">Ссылка на github</a>
+      <a href="https://github.com/Vinni37/involta-tz" target="_blank">Ссылка на github</a>
     </div>
   </div>
 </template>

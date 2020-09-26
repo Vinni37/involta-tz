@@ -65,6 +65,12 @@ export default {
     }
     .card img {
       width: 100%;
-    }    
+    }
+    .footer {
+      padding: 1rem 1rem 1rem 1rem;
+    }
+    .card div {
+      margin: 0;
+    }
   }
 </style>

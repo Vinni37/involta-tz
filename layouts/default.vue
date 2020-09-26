@@ -16,4 +16,10 @@ export default {
     width: 80%;
     margin-left: 10%;
   }
+  @media (max-width: 700px) {
+    main{
+      width: 90%;
+      margin-left: 5%;
+    }
+  }
 </style>

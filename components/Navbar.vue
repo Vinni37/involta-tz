@@ -91,7 +91,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
     .top,.bottom{
         display: flex;
         justify-content: space-between;
@@ -135,6 +135,9 @@ export default {
         margin-right: 10px;
     }
     @media (max-width: 700px) {
+        h1 {
+            font-size: 1.8rem;
+        }
         .top{
             display: block;
         }

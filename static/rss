@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:infographic="https://www.mos.ru/mayor/infographic/">
+  <channel>
+    <title>Официальный портал Мэра и Правительства Москвы</title>
+    <link>https://www.mos.ru/</link>
+    <description>Новостная лента официального портала Мэра и Правительства Москвы</description>
+    <item>
+      <title>Трансляция: концерт «От Баха до космоса» в Мемориальном музее А.Н. Скрябина</title>
+      <description>Для гостей прозвучат классические и современные произведения.</description>
+      <link>https://www.mos.ru/conferences/item/421296/</link>
+      <pubDate>Fri, 25 Sep 2020 14:26:01 +0300</pubDate>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/conferences/Anons_Denisov.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>В районе Перово построят двухсекционный дом по программе реновации</title>
+      <description>Фасады облицуют двумя видами панелей: серыми и под кирпич.</description>
+      <link>https://www.mos.ru/news/item/80343073/</link>
+      <pubDate>Fri, 25 Sep 2020 13:30:00 +0300</pubDate>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/perovo2(18).jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>На улице Земляной Вал отремонтируют дом 50-х годов прошлого века</title>
+      <description>В здании частично заменят системы электроснабжения, водоотведения, отопления, водоснабжения.</description>
+      <link>https://www.mos.ru/news/item/80338073/</link>
+      <pubDate>Fri, 25 Sep 2020 12:02:01 +0300</pubDate>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/kapremont-01(1)(1).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/Depositphotos_12112888_xl-2015.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ситуация с коронавирусом в Москве соответствует мировому тренду</title>
+      <description>В столице идут пострегистрационные исследования вакцины против коронавирусной инфекции.</description>
+      <link>https://www.mos.ru/news/item/80345073/</link>
+      <pubDate>Fri, 25 Sep 2020 11:32:00 +0300</pubDate>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/mask(2)(2).png" type="image/png"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/bolnie_samarin(36).jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Python-программирование и виртуальная реальность: бесплатные интенсивы и мастер-классы технопарка «Кванториум»</title>
+      <description>На занятиях можно будет создать 2D-игру и спроектировать космическую станцию. Слушателям также расскажут о нанотехнологиях и основах журналистики.</description>
+      <link>https://www.mos.ru/news/item/80323073/</link>
+      <pubDate>Fri, 25 Sep 2020 11:21:01 +0300</pubDate>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/ulya(1486).jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Участок Арбатско-Покровской линии закроют с 26 сентября по 5 октября</title>
+      <description>Для пассажиров будут ходить бесплатные автобусы с остановками у закрытых станций метро.</description>
+      <link>https://www.mos.ru/news/item/80342073/</link>
+      <pubDate>Fri, 25 Sep 2020 11:03:01 +0300</pubDate>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/1(761682).png" type="image/png"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/2(513532).png" type="image/png"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/3(420382).png" type="image/png"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/4(371993).png" type="image/png"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/5(350758).png" type="image/png"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/6(362273).png" type="image/png"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/i0QG_nsxuEMy_ivanko.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Московские врачи вылечили от коронавирусной инфекции почти 243 тысячи человек</title>
+      <description>Выздоровевшие могут стать донорами плазмы крови, а также социальными волонтерами.</description>
+      <link>https://www.mos.ru/news/item/80339073/</link>
+      <pubDate>Fri, 25 Sep 2020 10:18:01 +0300</pubDate>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/mask(2)(1).png" type="image/png"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/vilechilis_mishin(180).jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Удаленная работа и домашний режим для людей старше 65 лет: как Москва борется с ростом заболеваемости COVID-19</title>
+      <description>При посещении общественных мест всем обязательно нужно использовать перчатки и надевать маски.</description>
+      <link>https://www.mos.ru/mayor/themes/1299/6814050/</link>
+      <pubDate>Fri, 25 Sep 2020 08:04:01 +0300</pubDate>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/pressevents/mask(2).png" type="image/png"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/pressevents/2(36214).jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>В Москве найдены необычные тротуарные решетки с призмами</title>
+      <description>Обнаружить артефакты удалось во время работ в Даеве и Ананьевском переулках. Это не первый случай, когда в рамках благоустройства находят предметы прошлого, раскрывающие подробности того, как город жил десятки и сотни лет назад.</description>
+      <link>https://www.mos.ru/news/item/80324073/</link>
+      <pubDate>Fri, 25 Sep 2020 07:01:01 +0300</pubDate>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/1(761564).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/2(513461).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/3(420353).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/4(371968).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/5(350732).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/Vn1(665).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/1(761568).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/2(513464).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/3(420357).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/4(371971).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/5(350737).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/vn2_klinker.jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/vn3_belokomenniifynd.jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/02(243)(2).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/03(148)(2).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/vn4_mostovaya.jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/vn4(173).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/vn5_klad.jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/2(3656)(1).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/3(3446)(1).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/1(16225)(1).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/sl(811)(1).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/vn6slyh.jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/vn7slon.jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/5iNwnaNKuJif.jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/IMG_8507(1).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/IMG_8498(1).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/IMG_9019(2).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/IMG_9007(1)(2).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/IMG_9000(2).jpg" type="image/jpeg"/>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/Gl(177497).jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>В Москве выросли объемы производства лекарств, пищевой продукции и машин</title>
+      <description>Они стали больше на 4,8 процента по сравнению с аналогичным периодом прошлого года.</description>
+      <link>https://www.mos.ru/news/item/80322073/</link>
+      <pubDate>Fri, 25 Sep 2020 07:01:01 +0300</pubDate>
+      <enclosure url="https://www.mos.ru/upload/newsfeed/newsfeed/grishkin(13790).jpg" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
